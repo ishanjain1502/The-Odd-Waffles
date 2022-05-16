@@ -1,5 +1,9 @@
 # The-Odd-Waffles
+The Odd Waffles is an NFT listing project where users can register using there metamask accounts and discordID , and can paticipate to win syrups and NFT drops.
 
+## Tech-Stack Used:
+1. NodeJS
+2. MongoDB
 
 ## DB-Schema
 1. For registering the user <br/><br/>
