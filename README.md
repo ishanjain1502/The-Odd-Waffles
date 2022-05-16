@@ -15,7 +15,7 @@ I cannot share the code files since this was a freelance project and its code fi
 
 <br/><br/>
 2. For Whitelisting and selecting 10 lucky winners<br/><br/>
-![image](https://user-images.githubusercontent.com/56102033/168579631-6fa1d63c-a81a-4d88-9795-9b587488d815.png)
+![image](https://user-images.githubusercontent.com/56102033/168656388-85851a72-c1d5-4654-9cb2-48c903ff27e6.png)
 
 ## API LLD
 
