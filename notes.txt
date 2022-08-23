@@ -1,0 +1,10 @@
+https://git.heroku.com/waffleapi.git
+https://git.heroku.com/waffleapi.git
+
+https://waffleapi.herokuapp.com/
+
+22-04-2022
+
+I created a new proxyModel for unique wallet address, and then had our original model after that
+
+Configuration change: primary key in original model is now discord, and in proxy is walletAddress
