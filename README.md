@@ -3,7 +3,7 @@ The Odd Waffles is an NFT listing project where users can register using there m
 <br/><br/>
 I was responsible for creating the whole backend of the project, for which I first created LLDs for APIs and then coded them, whichmade my work really efficient
 <br/><br/>
-I cannot share the code files since this was a freelance project and its code files are under the ownership of my employer
+It is used to power few discord bots and websites, where it helps in mapping users, and awards them accordingly in lucky draws, as we see in NBA drafts
 
 ## Tech-Stack Used:
 1. NodeJS
